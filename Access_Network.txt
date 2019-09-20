@@ -1,0 +1,24 @@
+Objectives 
+I.Upon completion of this course, you will be able to :
+1.description various FTTx terminal types.
+2.List key parameters for FTTx terminal registration.
+3.Maintain various terminals.
+4.Add and modify an ONT.
+
+
+OLT and ONU 
+
+allocate បែងចែក
+bind ចង
+
+DBA:dynamic bandwidth assignment:Defines the upstream traffic parameters of the GPON, and binds to T-CONTs to control the upstream traffic.
+TCONT: transmission container
+GEM:GPON encapsulation mode
+OMCT: optical network terminal management and control interface
+SNMP:simple network management Protocol
+
+key points:
+
+
+1.OLT opens a window to request ONU SNs.
+2.
